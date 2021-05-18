@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://puneeth:secret123@connect-in.coezw.mongodb.net/connector-in-db?retryWrites=true&w=majority",
+    "jwtSecret": "jwtSecretToken",
+    "githubClientID": "6db67e7a02a1f5c4828a",
+    "githubClientSecret": "2490fa9f700eb9e80b48fffb6eef02651572cb95"
+}
