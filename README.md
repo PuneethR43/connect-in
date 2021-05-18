@@ -2,7 +2,7 @@
 A social network web app.
 
 # Live Application
-[CLICK HERE](https://tranquil-reaches-70983.herokuapp.com/) for live application.
+[CLICK HERE](https://tranquil-reaches-70983.herokuapp.com/) to visit the live application.
 
 # Overview
 
